@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @suthargk
 - 👀 I’m interested in React ⚛️
 - 🌱 I’m currently learning Webpack 🦄
-- Portfolio: https://gauravsuthar.vercel.app
+- Portfolio: https://gauravsuthar.com
